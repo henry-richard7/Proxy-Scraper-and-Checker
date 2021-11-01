@@ -1,0 +1,13 @@
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\bin\Debug\Proxy Scraper and Checker.exe.config
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\bin\Debug\Proxy Scraper and Checker.exe
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\bin\Debug\Proxy Scraper and Checker.pdb
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy Scraper and Checker.csproj.AssemblyReference.cache
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy_Scraper_and_Checker.Form1.resources
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy_Scraper_and_Checker.Properties.Resources.resources
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy Scraper and Checker.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy Scraper and Checker.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy Scraper and Checker.exe
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy Scraper and Checker.pdb
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\bin\Debug\Leaf.xNet.xml
+C:\Users\Henry\source\repos\Proxy Scraper and Checker\Proxy Scraper and Checker\obj\Debug\Proxy Scraper and Checker.csproj.CopyComplete
