@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Proxy-Scraper-and-Checker/total.svg?style=for-the-badge&logo=github)
+
 # Proxy Scraper and Checker
  A C# app that scrapes proxies from https://proxyscrape.com/ and checks for good proxies and save it in a Text file.
  
